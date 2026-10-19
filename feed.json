@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "published_on": "2026-10-20",
+  "catalog_cards": [],
+  "card_facts": {
+    "axis_bank_liberty_debit": {
+      "source": "https://www.axis.bank.in/cards/debit-card/liberty-debit-card",
+      "source_type": "issuer",
+      "checked_on": "2026-10-20",
+      "benefit": "Eligible linked Liberty accounts can earn 5% cashback on weekend food, entertainment, shopping and travel card purchases, capped at ₹500 per month (₹1,000 during the birthday month); account and merchant-category terms apply."
+    }
+  },
+  "reward_packs": [],
+  "merchant_offers": [
+    {
+      "id": "cleartrip_federal_credit_oct26",
+      "merchant": "Cleartrip",
+      "bank": "Federal Bank",
+      "card_type": "Credit",
+      "category": "Travel",
+      "title": "Up to 12% off eligible flight bookings",
+      "promo_code": "FEDCC",
+      "details": "Federal Bank credit card offer shown on Cleartrip's live offers page. Route, fare, booking value and per-card restrictions must be checked at checkout.",
+      "checked_on": "2026-10-20",
+      "valid_until": "2026-10-22",
+      "source_url": "https://www.cleartrip.com/all-offers/"
+    },
+    {
+      "id": "cleartrip_federal_debit_oct26",
+      "merchant": "Cleartrip",
+      "bank": "Federal Bank",
+      "card_type": "Debit",
+      "category": "Travel",
+      "title": "Up to 12% off eligible flight bookings",
+      "promo_code": "FEDDC",
+      "details": "Federal Bank debit card offer shown on Cleartrip's live offers page. Confirm exact card and booking eligibility at checkout.",
+      "checked_on": "2026-10-20",
+      "valid_until": "2026-10-22",
+      "source_url": "https://www.cleartrip.com/all-offers/"
+    },
+    {
+      "id": "cleartrip_pnb_credit_oct26",
+      "merchant": "Cleartrip",
+      "bank": "Punjab National Bank",
+      "card_type": "Credit",
+      "category": "Travel",
+      "title": "Up to 12% off eligible flight bookings",
+      "promo_code": "PNBCC",
+      "details": "PNB credit-card code listed by Cleartrip; booking restrictions and final discount are displayed at checkout.",
+      "checked_on": "2026-10-20",
+      "valid_until": "2026-10-22",
+      "source_url": "https://www.cleartrip.com/all-offers/"
+    },
+    {
+      "id": "cleartrip_yes_credit_oct26",
+      "merchant": "Cleartrip",
+      "bank": "YES Bank",
+      "card_type": "Credit",
+      "category": "Travel",
+      "title": "Up to 12% off eligible flight bookings",
+      "promo_code": "YESCC",
+      "details": "YES Bank credit-card code listed by Cleartrip; verify the route, dates and code at checkout.",
+      "checked_on": "2026-10-20",
+      "valid_until": "2026-10-22",
+      "source_url": "https://www.cleartrip.com/all-offers/"
+    },
+    {
+      "id": "cleartrip_sbi_credit_oct26",
+      "merchant": "Cleartrip",
+      "bank": "SBI Card",
+      "card_type": "Credit",
+      "category": "Travel",
+      "title": "Up to 12% off eligible flight bookings",
+      "promo_code": "SBICC",
+      "details": "SBI credit-card code listed by Cleartrip; final fare and issuer eligibility must be checked at checkout.",
+      "checked_on": "2026-10-20",
+      "valid_until": "2026-10-22",
+      "source_url": "https://www.cleartrip.com/all-offers/"
+    }
+  ],
+  "changes": [
+    {
+      "slug": "axis_bank_liberty_debit",
+      "title": "Liberty weekend cashback and eligibility reviewed",
+      "source_url": "https://www.axis.bank.in/cards/debit-card/liberty-debit-card"
+    }
+  ]
+}
